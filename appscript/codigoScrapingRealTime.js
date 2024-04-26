@@ -1,3 +1,6 @@
+// link da planilha: https://docs.google.com/spreadsheets/d/1-Ec4nMNS9O4Xj-SHHIvZMhu5R2zR1SCnz0zLRo9T4-U/edit#gid=0
+
+
 function Atualiza_IMPORTHTML_Com_Registro() {
   
   var Arg_URL = "http://94550ac37bb5.sn.mynetname.net:20249/tms/loom/opestate_all.cgi"; 
